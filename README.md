@@ -14,13 +14,13 @@ A powerful automation tool designed to simplify the process of creating **Bandai
 * Clean console interface
 * Backend-controlled access
 
-## 🎮 What Is It Used For?
+## What Is It Used For?
 
 Bandai Account Creator helps streamline the process of creating Bandai Namco accounts that can be used to link with your **Dragon Ball Legends** accounts.
 
 Instead of manually going through the registration and verification process for each account, the tool automates the workflow to save time and reduce repetitive tasks.
 
-## 📋 Requirements
+## Requirements
 
 Before running the program, make sure you have:
 
@@ -88,7 +88,7 @@ This software is an independent third-party project and is not affiliated with, 
 
 Users are responsible for complying with all applicable terms of service, rules, and policies of any services they use with this software.
 
-## 🛠️ Technology
+## Technology
 
 Built using:
 
@@ -98,7 +98,7 @@ Built using:
 * **Google Chrome**
 * **ChromeDriver**
 
-## 📞 Support
+## Support
 
 If you encounter an issue, please provide:
 
